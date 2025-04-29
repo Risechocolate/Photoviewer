@@ -58,3 +58,5 @@ impl eframe::App for MyApp {
         });
     }
 }
+
+// ©2025 Rise_chocolate
